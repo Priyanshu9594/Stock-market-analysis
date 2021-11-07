@@ -1,10 +1,10 @@
 
 nsepy==0.8
-pandas>=0.19
-numpy>=1.9.2
+pandas
+numpy
 datetime
 sklearn
-matplotlib==3.4.3
+matplotlib
 tensorflow==2.5
 plotly==5.3.1
 streamlit
