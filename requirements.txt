@@ -4,6 +4,6 @@ matplotlib
 keras
 plotly
 streamlit
-tensorflow<=2.5.0
+tensorflow>=2.3.0
 
 
