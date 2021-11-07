@@ -1,8 +1,5 @@
-
+tensorflow==2.7.0
 nsepy==0.8
-pandas
-numpy
-datetime
 sklearn
 matplotlib
 keras
