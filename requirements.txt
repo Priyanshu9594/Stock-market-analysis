@@ -5,7 +5,7 @@ numpy
 datetime
 sklearn
 matplotlib
-tensorflow=2.2.0
+keras
 plotly==5.3.1
 streamlit
 
