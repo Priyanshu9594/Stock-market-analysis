@@ -1,0 +1,13 @@
+nsepy==0.8
+pandas>=0.19
+numpy>=1.9.2
+datetime
+sklearn
+matplotlib==3.4.3
+tensorflow
+keras==2.4.3
+plotly==5.3.1
+streamlit
+
+
+
