@@ -5,7 +5,7 @@ numpy>=1.9.2
 datetime
 sklearn
 matplotlib==3.4.3
-tensorflow>=2.2
+tensorflow==2.2
 plotly==5.3.1
 streamlit
 
